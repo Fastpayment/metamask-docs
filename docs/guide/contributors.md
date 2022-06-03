@@ -26,6 +26,6 @@
   repoName="metamask-docs"
 />
 
-:::
+:::wep3
 
 ::::
